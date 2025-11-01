@@ -3,3 +3,4 @@ local Alternate = game:HttpGet("https://gitlab.com/cooldawghaha/gitlabswitch/-/r
 getgenv().saveconfig = false -- set to true if u want ur configs to save
 
 loadstring(Main)() -- Change from "Main" to "Alternate" if key system doesnt work!
+--key escooter
